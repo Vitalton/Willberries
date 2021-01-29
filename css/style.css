@@ -293,6 +293,11 @@ ul {
    margin-right: 15px;
 }
 
+.top-link-arrow,
+.top-link-text {
+   cursor: pointer;
+}
+
 @media (max-width: 1200px) {
    .slide-1 {
       background-size: cover;
